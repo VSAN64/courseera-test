@@ -7,6 +7,6 @@ Connect with your friends and discuss!
 Mindspace is a platform to express your thoughts, ideas, beliefs and perceptions.
 
 # Express
-## Share
-### Listen
+# Share
+# Listen
 
