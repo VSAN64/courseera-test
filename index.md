@@ -4,14 +4,11 @@ Connect with your friends and discuss!
 
 ### You are here to express your opinion! The People are ready to listen your expressions!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mindspace is a platform to express your thoughts, ideas, beliefs and perceptions.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Express
+## Share
+### Listen
 
 - Bulleted
 - List
