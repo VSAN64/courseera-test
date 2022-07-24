@@ -2,7 +2,7 @@
 
 Connect with your friends and discuss!
 
-### Markdown
+### You are here to express your opinion! The People are ready to listen your expressions!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
